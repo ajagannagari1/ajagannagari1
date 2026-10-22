@@ -1,48 +1,25 @@
-# CSC 311 – GitHub Lab Assignments (Fall 2025)
+# Hi, I'm Akshitha Jagannagari
 
-This repository serves as a central index for all GitHub lab assignments completed for  
-**CSC 311 – Programming to an Interface** at **CSUDH**.
+Java Developer focused on backend systems, integrations, and AI/LLM engineering.
+2 years building Spring Boot services and REST APIs, with an M.S. in Computer Science (GPA 3.9).
+Based in Long Beach, CA · Open to relocation
 
+### 🔧 What I work with
+**Backend:** Java, Spring Boot, JPA/Hibernate, REST & SOAP APIs
+**Data:** PostgreSQL, Oracle, MySQL
+**Frontend:** React.js, TypeScript, JavaScript
+**Platforms:** Salesforce (Apex, LWC, Field Service)
+**Testing & Tools:** JUnit, Mockito, Git, Maven, Jira
+**Currently learning:** Redis, Kafka, Docker, AWS, LLM integration
 
+### 🚀 Featured projects
+- **[SNP Association Detection](https://github.com/ajagannagari1/snp-association-detection)**: End-to-end genomic ML pipeline across 8 datasets; AUC-weighted ensemble reaching 0.9934 ROC-AUC.
+- **[Wikipedia Search Engine](https://github.com/ajagannagari1/boolean-search-engine-java)**: Java crawler with a Redis-backed inverted index, answering Boolean queries (AND/OR/NOT) ranked by term frequency. Course project.
 
-## 📘 Assignment Links
+### 💼 Experience
+- **Java Developer**, Eval Consulting, Inc. *(current)*
+- **Salesforce & Java Developer**, Accenture: Java/Spring Boot integrations for a Salesforce Field Service platform with 5,000+ users
+- **Java Developer**, Timon Global: Spring Boot and React case-management platform
 
-1. **Asg 1 – Programming to an Interface**  
-   https://github.com/CSC311/programming-to-an-interface-asg1-ajagannagari1
-
-2. **Asg 2 – Implementing a List Interface with an Array**  
-   https://github.com/CSC311/implementing-a-list-interface-with-an-array-asg2-ajagannagari1
-
-3. **Asg 3 – Implementing a List Interface with a Linked List**  
-   https://github.com/CSC311/implementing-a-list-interface-with-a-linked-list-asg3-ajagannagari1
-
-4. **Asg 4 – Profiling ArrayList and LinkedList**  
-   https://github.com/CSC311/asg4-profiling-arraylist-and-linkedlist-from-java-se-ajagannagari1
-
-5. **Asg 5 – Intro to the DOM Tree and Depth First Search**  
-   https://github.com/CSC311/asg5-intro-to-the-dom-tree-and-depth-first-search-ajagannagari1
-
-6. **Asg 6 – Fixed TermCounter and Index**  
-   https://github.com/CSC311/asg6-fixed-termcounter-and-index-ajagannagari1
-
-7. **Asg 7 – MyLinearMap (Map Interface)**  
-   https://github.com/CSC311/asg7-mylinearmap---implementation-of-map-interface-ajagannagari1
-
-8. **Asg 8 – MyBetterMap (Hash-based Map)**  
-   https://github.com/CSC311/asg8-mybettermap---a-hash-code-based-impl-of-a-map-ajagannagari1
-
-9. **Asg 9 – MyHashMap (Constant Time HashMap)**  
-   https://github.com/CSC311/asg9-myhashmap---a-constant-time-hash-map-ajagannagari1
-
-10. **Asg 10 – MyTreeMap (BST-based Map)**  
-    https://github.com/CSC311/asg10-mytreemap---implementing-a-map-with-a-bst-ajagannagari1
-
-11. **Asg 11 – Redis-backed URL Index using Jedis**  
-    https://github.com/CSC311/asg11-redis-backed-store-of-url-index-using-jedis-ajagannagari1
-
-12. **Asg 12 – WikiCrawler**  
-    https://github.com/CSC311/asg12---wikicrawler-ajagannagari1
-
-
-
-✅ All assignments were implemented, tested, and submitted using GitHub Classroom.
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/akshitha-jagannagari-138114351) · ajkshitha09@gmail.com
