@@ -12,11 +12,11 @@ Based in Long Beach, CA · Open to relocation
 **Testing & Tools:** JUnit, Mockito, Git, Maven, Jira
 **Currently learning:** Redis, Kafka, Docker, AWS, LLM integration
 
-### 🚀 Featured projects
+### Featured projects
 - **[SNP Association Detection](https://github.com/ajagannagari1/snp-association-detection)**: End-to-end genomic ML pipeline across 8 datasets; AUC-weighted ensemble reaching 0.9934 ROC-AUC.
 - **[Wikipedia Search Engine](https://github.com/ajagannagari1/boolean-search-engine-java)**: Java crawler with a Redis-backed inverted index, answering Boolean queries (AND/OR/NOT) ranked by term frequency. Course project.
 
-### 💼 Experience
+### Experience
 - **Java Developer**, Eval Consulting, Inc. *(current)*
 - **Salesforce & Java Developer**, Accenture: Java/Spring Boot integrations for a Salesforce Field Service platform with 5,000+ users
 - **Java Developer**, Timon Global: Spring Boot and React case-management platform
