@@ -1,16 +1,18 @@
 # Hi, I'm Akshitha Jagannagari
 
 Java Developer focused on backend systems, integrations, and AI/LLM engineering.
+
 2 years building Spring Boot services and REST APIs, with an M.S. in Computer Science (GPA 3.9).
+
 Based in Long Beach, CA · Open to relocation
 
 ### What I work with
-**Backend:** Java, Spring Boot, JPA/Hibernate, REST & SOAP APIs
-**Data:** PostgreSQL, Oracle, MySQL
-**Frontend:** React.js, TypeScript, JavaScript
-**Platforms:** Salesforce (Apex, LWC, Field Service)
-**Testing & Tools:** JUnit, Mockito, Git, Maven, Jira
-**Currently learning:** Redis, Kafka, Docker, AWS, LLM integration
+- **Backend:** Java, Spring Boot, JPA/Hibernate, REST & SOAP APIs
+- **Data:** PostgreSQL, Oracle, MySQL
+- **Frontend:** React.js, TypeScript, JavaScript
+- **Platforms:** Salesforce (Apex, LWC, Field Service)
+- **Testing & Tools:** JUnit, Mockito, Git, Maven, Jira
+- **Currently learning:** Redis, Kafka, Docker, AWS, LLM integration
 
 ### Featured projects
 - **[SNP Association Detection](https://github.com/ajagannagari1/snp-association-detection)**: End-to-end genomic ML pipeline across 8 datasets; AUC-weighted ensemble reaching 0.9934 ROC-AUC.
