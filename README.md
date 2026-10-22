@@ -4,7 +4,7 @@ Java Developer focused on backend systems, integrations, and AI/LLM engineering.
 2 years building Spring Boot services and REST APIs, with an M.S. in Computer Science (GPA 3.9).
 Based in Long Beach, CA · Open to relocation
 
-### 🔧 What I work with
+### What I work with
 **Backend:** Java, Spring Boot, JPA/Hibernate, REST & SOAP APIs
 **Data:** PostgreSQL, Oracle, MySQL
 **Frontend:** React.js, TypeScript, JavaScript
